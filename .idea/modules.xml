@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LockPatternViewTest.iml" filepath="$PROJECT_DIR$/LockPatternViewTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewPagerIndicator-release/ViewPagerIndicator-release.iml" filepath="$PROJECT_DIR$/ViewPagerIndicator-release/ViewPagerIndicator-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lockpatterviewdemo-release/lockpatterviewdemo-release.iml" filepath="$PROJECT_DIR$/lockpatterviewdemo-release/lockpatterviewdemo-release.iml" />
+    </modules>
+  </component>
+</project>
